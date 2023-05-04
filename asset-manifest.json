@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photocollectionsec/static/css/main.2e1e6fdb.css",
+    "main.js": "/photocollectionsec/static/js/main.e365c740.js",
+    "index.html": "/photocollectionsec/index.html",
+    "main.2e1e6fdb.css.map": "/photocollectionsec/static/css/main.2e1e6fdb.css.map",
+    "main.e365c740.js.map": "/photocollectionsec/static/js/main.e365c740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1e6fdb.css",
+    "static/js/main.e365c740.js"
+  ]
+}
