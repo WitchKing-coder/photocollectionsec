@@ -2,7 +2,7 @@
   "name": "photocollection",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WitchKing-coder.github.io/photocollection",
+  "homepage": "https://WitchKing-coder.github.io/photocollectionsec",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
