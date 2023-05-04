@@ -1,0 +1,62 @@
+@media (min-width: 1700px) {
+    .collection__mini{
+        width: 30%;
+        height: 100px;
+    }
+    .collection__big{
+        width: 70%;
+        height: 300px;
+    }
+    .collection{
+        width: 45%;
+        height: 20%;
+    }
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 1400px) {
+    .top{
+        width: 30%;
+    }
+    .collection__mini{
+        width: 30%;
+        height: 120px;
+    }
+    .collection__big{
+        width: 70%;
+        height: 350px;
+    }
+    .pagination{
+        width: 100%;
+    }
+}
+@media (max-width: 800px) {
+    .collection__mini{
+        width: 30%;
+        height: 60px;
+    }
+    .collection__big{
+        width: 70%;
+        height: 150px;
+    }
+    .App{
+        width: 65%;
+    }
+    .top{
+        width: 70%;
+    }
+    .page_item{
+        margin: 0 5px;
+    }
+}
+
+@media (max-width: 300px) {
+    .collection{
+        width: 140%;
+    }
+    .App{
+        margin-left: 10px;
+    }
+}
